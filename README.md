@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pablommendez
 - 👀 I’m interested in programming usefull tools !
-- 🌱 I’m currently working as an IBM Integration Bus App Development
+- 🌱 I’m currently working as a backend developer @Rappi
 - 📫 How to reach me pablomendev@gmail.com - IG @pablomendev
